@@ -1,0 +1,35 @@
+
+.table{
+    background-color: white;
+    border: 1px solid;
+    border-color: black;
+    border-spacing: 0px;
+    border-collapse: separate;
+    color: black;
+}
+
+.btn-primary{     
+    background-color:rgba(10, 161, 221, 0.77);
+    border-color:rgba(10, 161, 221, 0.77);    
+}
+.btn-primary:hover{     
+    background-color:rgba(10, 161, 221, 1);
+    border-color:rgba(10, 161, 221, 1);    
+}   
+
+.inline_center{
+    display: flex;  
+    /*justify-content: center;*/
+}
+
+.fa-pen, .fa-undo, .fa-plus, .fa-save{
+    color: white;
+}
+
+#searchForm{
+    display: flex;
+}
+
+body{
+    color: black;
+}
