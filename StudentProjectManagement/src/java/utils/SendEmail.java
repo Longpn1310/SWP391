@@ -22,8 +22,8 @@ public class SendEmail {
 
     public static void send(String toAddress, String subject, String content) {
         try {
-            String email = "toaintse04189@fpt.edu.vn";
-            String password = "Thanhtoai1010";
+            String email = "longpnhe141253@fpt.edu.vn";
+            String password = "PhamLong1310";
             String host = "smtp.gmail.com";//or IP address
 
             Properties properties = new Properties();
